@@ -1,11 +1,11 @@
 {
-  "version": "1.6.5",
-  "notes": "Lanzamiento oficial con nuevo servidor de actualizaciones público",
+  "version": "1.6.6",
+  "notes": "Actualización de prueba para verificar el botón de actualizacion",
   "pub_date": "2026-04-05T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSS95cEhsT3RWTHhQemxjUGRmRlFVdHZlSk5xQ1N3SmE1THpoaXBURzh6OE1GWnBIRlVsSWl2MS80L2hldHg2ZXBqSVFDbGdsYjBFTEcxZmc4QUY5dGxVeDh0R3JkVkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NDE0NTM1CWZpbGU6Vm9sdGlhU3lzXzEuNi41X3g2NC1zZXR1cC5leGUKSFVTNWVuYW4veUlGMVRhYnhtOGxaeFNadEpiTUhLMWZZUXZmeVZJZnFCK0xJNmt2SlJhT2Qwbm8xQXUwcDRzYnRiT3p3K2Rnb3VySGZnem5QUEs5QUE9PQo=",
-      "url": "https://github.com/FupuElectronica/VoltiaSys-Releases/releases/download/v1.6.5/VoltiaSys_1.6.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSS95cEhsT3RWTDZ4RmlhUXBpZGltYmV2WWdvUWNmYlEraWRHZmlxaE1uMmpwajREY28zdlpVY2NTSjVHYzFpczZjUll1aVVHMFpiYm5MVzl6RVA2OGx3dU9NV1BUZFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NDE0OTY5CWZpbGU6Vm9sdGlhU3lzXzEuNi42X3g2NC1zZXR1cC5leGUKNGZuRDN4MTRSTVVUL3Z5QUx3Kzgzbm1ncTV0bzRmUHBjWUJsWmR1UDFMNmZ6MGptZ1VLbU1UN3BLN2lFRWNVbExNR0JRRTBsM2U3NDhURjBzRC9RREE9PQo=",
+      "url": "https://github.com/FupuElectronica/VoltiaSys-Releases/releases/download/v1.6.6/VoltiaSys_1.6.6_x64-setup.exe"
     }
   }
 }
