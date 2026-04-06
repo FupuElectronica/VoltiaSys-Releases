@@ -1,11 +1,11 @@
 {
-  "version": "1.6.9",
+  "version": "1.7.0",
   "notes": "Nuevas funciones y bugfix",
   "pub_date": "2026-04-05T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSS95cEhsT3RWTDJscGlJODFncEd0Ym1ySlEwdnVjeXFoYWVBTzRQRktHUXNFbGU0bUV1OTMrNXowY05jM0VCWHFxenU1a3hlc1ZyMHVlVnFXYWhzRFpUZlpzWjFqYXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NDkzOTg4CWZpbGU6Vm9sdGlhU3lzXzEuNi45X3g2NC1zZXR1cC5leGUKQUJEZTMzbjkzQkFpY3dUNmVUT1EzSVNyaWxqa1pINEo5ZlRsQ3l5Q28zem9kamIwNllvdWdNZlNvWjFaMlpuY2hMaEZtV2NQUDNXNXM3d1FOVDBkQnc9PQo=",
-      "url": "https://github.com/FupuElectronica/VoltiaSys-Releases/releases/download/v1.6.9/VoltiaSys_1.6.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSS95cEhsT3RWTHd1bzlzWTlzOE5idkdPRlp0Y2ZzYkhiMi9la2pXSDhZQ3pQMlN4dGJzV0ZRa01wUlJMSk53eGtsaytkRm1hQ2tmWFFQK0V6MHNBNHlnbUhOMER4K2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTE4MzE5CWZpbGU6Vm9sdGlhU3lzXzEuNy4wX3g2NC1zZXR1cC5leGUKQjB3WWlKbThmcmRmNWxSM0ZwQ2IvdmNhN1ZnZERlT2RjVDhzT0ZibzVJOEgrV0RKckdqaW55c0RqTU13eGZBVnVQVFlEenV4dUpUUXNhREU3cTYvQlE9PQo=",
+      "url": "https://github.com/FupuElectronica/VoltiaSys-Releases/releases/download/v1.7.0/VoltiaSys_1.7.0_x64-setup.exe"
     }
   }
 }
