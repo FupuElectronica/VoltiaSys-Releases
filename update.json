@@ -1,11 +1,11 @@
 {
-  "version": "1.7.2",
-  "notes": "Reestructuracion de Finanzas y arreglo de bugs",
+  "version": "1.7.3",
+  "notes": "Lanzamiento 1.7.3: Login nativo Google, rediseño Flat Dark y fix de UI, Mejoras de funcionalidades de apartados en general, Numero de orden manual, Arreglo de bugs en apartado finanzas, Lanzamiento en Android",
   "pub_date": "2026-04-05T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSS95cEhsT3RWTHpJZlhIbHFkdUlOR0NHK1dDVFBvRVVDaldsWmR4czQvRWR1UzYxL1lQOFYyS1Jock4yTnMxNlRub1h3cUdRMVFRQWxhaVY1cHBvdU50QVRFNFJCQ3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjA2MjM4CWZpbGU6Vm9sdGlhU3lzXzEuNy4yX3g2NC1zZXR1cC5leGUKNGZMZjR2Q2FPc1RkY0ZqWXEwam1wNzlsUCtCOURHWXlub0pET3h2VVlwQlNmenRxTWZBYkdjbTJ4WGVXWHkxUHhBbTRlU3JmWDdobGttZ2xOaHNOQWc9PQo=",
-      "url": "https://github.com/FupuElectronica/VoltiaSys-Releases/releases/download/v1.7.2/VoltiaSys_1.7.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSS95cEhsT3RWTDJYYXlaWGszU2ZCZHdjK2ovTGt1bDIyK3N2MndQUGtKSWduZnNQSlhIVVl3eGhmTUVrMlBJRkk4ZXZPakRkcDBsbGtZeStjTXRDNU9JSnJUQ0tqclFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDEzNDA1CWZpbGU6Vm9sdGlhU3lzXzEuNy4zX3g2NC1zZXR1cC5leGUKV1MvUzVJc0U3Z3l5ODY4NDhxa21BbEcvUnFSQlNsbTVGYXF5S3p4M1ljNVJtV044ZEhxQlV0ZGtDOFI2VVpjbEM3Y2h2dUQzT0ZGeGh6WXZ0SnRJQnc9PQo=",
+      "url": "https://github.com/FupuElectronica/VoltiaSys-Releases/releases/download/v1.7.3/VoltiaSys_1.7.3_x64-setup.exe"
     }
   }
 }
