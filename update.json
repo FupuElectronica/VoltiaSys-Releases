@@ -1,11 +1,11 @@
 {
-  "version": "1.7.4",
-  "notes": "Lanzamiento 1.7.4: Hotfix: Resolución de conflictos de permisos con Google Auth en la versión de PC (Tauri).Actualización del sistema de enrutamiento y validación de tokens de seguridad.Sincronización completa de inicio de sesión multiplataforma (Windows y Android)",
+  "version": "1.7.5",
+  "notes": "Lanzamiento 1.7.5:\n- Fix apertura y cierre de caja\n- Fix nombre de los tickets\n- Fix formato de tickets hoja a4\n- Fix configuracion de tipo de impresora\n- Nuevo opcion de descargar tickets",
   "pub_date": "2026-04-05T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSS95cEhsT3RWTDVCY093SEE5aU9pSEg0OGxtZy9xb0wzcVRxNWhFU3VCRWU4TXVOZHV1Tm1pamRCMWVQalF4VVhHL3l6b05kMnJFaWFOVkNvdmRyN2VGZkFyR2MvelFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDI5MDA4CWZpbGU6Vm9sdGlhU3lzXzEuNy40X3g2NC1zZXR1cC5leGUKTmMyTit3ejJ6NFZmYVJKMXNJMDJkajZUU3p6K0hJdVBNQUhyTXBHRlZjZkVoSjdLWVFPT1NXWU95T2JNeTVNN1pwNFdTajRLQ3FxUVoyVXc3bUlFQnc9PQo=",
-      "url": "https://github.com/FupuElectronica/VoltiaSys-Releases/releases/download/v1.7.4/VoltiaSys_1.7.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSS95cEhsT3RWTHl4WWErSTNxejFvM3NvOVkrTE1sSmpxbk92TGhYR3BpQUVMWGgrVEMwSit1Mk1hVTloMEx6a2dsYzkrZ01sM1lKTG5hUDRPcGVycEcxNnhjS1EzRXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NzI5NDUzCWZpbGU6Vm9sdGlhU3lzXzEuNy41X3g2NC1zZXR1cC5leGUKRENMdmZzVUdLZWNGV1JsdFAwUHNHbEFrK3kwc3JmS1I0MGJkY3hIdUp5Z3NHU2VuZ1JLOGlpRitvOGFoY0VBOUJoWGVGb1hmb09adjA4MUkrTjZIRHc9PQo=",
+      "url": "https://github.com/FupuElectronica/VoltiaSys-Releases/releases/download/v1.7.5/VoltiaSys_1.7.5_x64-setup.exe"
     }
   }
 }
